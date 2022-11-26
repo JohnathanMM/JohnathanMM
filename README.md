@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JohnathanMM
+- 👋 Hi, I’m @Johnathan Martins
 - 👀 I’m interested in  ser um desenvolvedor  Java
 - 🌱 I’m currently learning  Java
 - 💞️ I’m looking to collaborate on desenvolvimento de sistemas e aplicaçoes
